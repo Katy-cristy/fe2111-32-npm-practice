@@ -1,0 +1,11 @@
+{
+  "name": "sarcina.32",
+  "version": "1.0.0",
+  "description": "Homework 32 for practising npm",
+
+  "scripts": {
+    "test": "node npm front-end back-end"
+  },
+  "author": "Cirlig Ecaterina <sambrisecaterina@gmail.com>",
+  "license": "ISC"
+}
