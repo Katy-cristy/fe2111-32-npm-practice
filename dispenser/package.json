@@ -1,0 +1,16 @@
+{
+  "name": "joker",
+  "version": "1.0.0",
+  "description": "node.js npm front-end back-end joke",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cirlig Ecaterina <sambrisecaterina@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^4.2.1",
+    "colors": "^1.4.0",
+    "give-me-a-joke": "^0.5.1"
+  }
+}
